@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your NAME- Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hi,I'm MUGDHA THUMMALA</h1>
+        <p>WELCOME TO MY PORTFOLIO</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my portfolio website! I'm a dedicated student with a passion for software engineering. Throughout my academic journey, I have consistently pursued excellence and embraced opportunities to expand my knowledge and skills. I thrive in collaborative environments and value the power of teamwork in achieving shared goals. Beyond my studies, I enjoy Web Development that fuel my creativity and provide a well-rounded perspective. Feel free to explore my portfolio and connect with me to discuss any potential collaborations or opportunities.
+ Skills
+
+Experience
+
+Education</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>PROJECTS</h2>
+        <a>1.Title: Health Care Management system<br>
+          Description: In this project we built a new schema which could be used to enter new patient details and
+check the existing patient details and emergency details of the patient of medical support.<br>
+2. Title: Image classifier<br>
+Description: In this project, we found pattern recognition in computer vision, which is based on an approach
+of classification based on contextual information in images
+    </section>
+<section id="LANGUAGES">
+        <h2>LANGUAGES</h2>
+        <p>C,HTML,CSS,SQL,python</p>
+    </section>
+<section id="STRENGTHS">
+        <h2>STRENGTHS</h2>
+        <p>Professional communication skills<br>
+ Organizing skills<br>
+ Leadership & Team Worker<br>
+ Flexibility & Adaptability<br>
+ Self-confident<br>
+ Quick learner<br>
+ Engage directly with customers, partners, and internal stakeholders.<br>
+ Provide guidance for the software architecture.<br>
+ Excellent communication skills, both written and verbal.<br>
+ Strong critical thinking, reasoning, and problem-solving abilities, which are integral to the position.<br>
+ problem-solving and analytical abilities.<br>
+ Actively contribute as a team player.<br>
+ Possess a solid technical orientation.</p>
+    </section>
+          <section id=" MY WORK">
+        <h2>MY WORK</h2>
+        <p>!.Fetal health Prediction<br>
+The aim of this report is to propose a fetal health classification system based on machine learning algorithms.Fetal health is a critical factor in determining the outcomes of pregnancies,and early detection of potential health problems can lead to better management and treatment options. The performance of the system was evaluated using a dataset of 2,000 fetal health records, achieving an overall accuracy of 95%.<br>
+
+2.Tourism Website<br>
+A tour and travel website is a website on the internet that is dedicated to travel. The site may be focused on travel reviews. Many travel websites are online travelogues or travel journals, The purpose of the website is to establish the fact that internet users are increasing today. One of the main purposes of the website is to facilitate offline customers online. India is a country where in a few day's holidays you can enjoy a lot. The problem is that we have many websites but they offer different kinds of services<br>
+
+3.Restaurent App<br>
+Creating a restaurant app can prove beneficial to both, a new restaurant business owner who is yet to launch into the market, as well as those who are already running their restaurant(s) and are looking to add to their marketing and expansion efforts.Developing a restaurant app that helps fulfill a major purpose of seamless access demands a decent investment, and the benefits drawn from this development can contribute to growth of the res.</p>
+    </section>
+          
+    <section id="CONTACT ME">
+        <h2>CONTACT ME</h2>
+        <p>mugdhathummala08@gmail.com<br>
+          +91 7981583695</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Mugdha Thummala</p>
+    </footer>
+</body>
+</html>
